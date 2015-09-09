@@ -15,6 +15,7 @@ $ npm i least-common-multiple
 ## Usage
 
 ```js
+
 import lcm from 'least-common-multiple'
 
 lcm(12, 18) // 36
