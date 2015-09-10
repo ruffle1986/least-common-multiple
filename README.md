@@ -4,7 +4,7 @@ least-common-multiple
 [![Coverage Status](https://coveralls.io/repos/ruffle1986/least-common-multiple/badge.svg?branch=master&service=github)](https://coveralls.io/github/ruffle1986/least-common-multiple?branch=master) [![Build Status](https://travis-ci.org/ruffle1986/least-common-multiple.svg)](https://travis-ci.org/ruffle1986/least-common-multiple)
 
 
-Computes the least common multiple of the given integers.
+Computes the [least common multiple](https://en.wikipedia.org/wiki/Least_common_multiple) of the given integers.
 
 ## Install
 
@@ -33,6 +33,10 @@ $ npm test
 ```sh
 $ npm run build
 ```
+
+## Related
+
+[greatest-common-divisor](https://github.com/ruffle1986/greatest-common-divisor)
 
 ## License
 
