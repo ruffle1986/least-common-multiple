@@ -8,7 +8,7 @@
   "author": {
     "name": "ruffle1986"
   },
-  "main": "./dist/index.js",
+  "main": "./lib/index.js",
   "scripts": {
     "test": "xo",
     "posttest": "ava",
