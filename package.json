@@ -4,6 +4,7 @@
   "description": "Computes the least common multiple of the given integers.",
   "license": "MIT",
   "repository": "ruffle1986/least-common-multiple",
+  "type": "module",
   "author": {
     "name": "ruffle1986"
   },
